@@ -2,7 +2,7 @@
 
 Welcome to our project repository! This repository contains the code and resources for our project that involves analyzing Reddit data using various scripts and tools. Unfortunately, due to the large size of the data, we are unable to upload it directly to this repository. However, we have provided a link to a shared drive where you can access the data folder.
 
-**Data Link:** [Shared Drive - Data Folder]([[link-to-your-shared-drive](https://drive.google.com/drive/folders/1Nm5clHN4_aVKseSaNxP8u6N_Ufjz5c_1?usp=sharing)](https://drive.google.com/drive/folders/1Nm5clHN4_aVKseSaNxP8u6N_Ufjz5c_1?usp=sharing))
+**Data Link:** [Shared Drive - Data Folder]([https://drive.google.com/drive/folders/1Nm5clHN4_aVKseSaNxP8u6N_Ufjz5c_1?usp=sharing](https://drive.google.com/drive/folders/1Nm5clHN4_aVKseSaNxP8u6N_Ufjz5c_1?usp=sharing))
 
 ## Team Collaboration
 
